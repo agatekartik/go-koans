@@ -1,7 +1,5 @@
 package go_koans
 
-// trivial change to test git config
-
 func aboutAllocation() {
 	a := new(int)
 	*a = 3
